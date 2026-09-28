@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-08-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua Tiradentes está toda quebrada em frente ao número 230. Idosos já caíram tentando passar por ali."
+  },
+  {
+    "id": "M002",
+    "data": "2026-08-01",
+    "categoria_oficial": "saúde",
+    "texto": "Falta de remédio no posto do bairro Santa Luzia: já é o segundo mês sem losartana para pressão na farmácia da unidade."
+  },
+  {
+    "id": "M003",
+    "data": "2026-08-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Tem um buraco enorme na Av. Brasil, perto do cruzamento com a Rua XV. Os carros desviam em cima da hora e quase acontecem acidentes."
+  },
+  {
+    "id": "M004",
+    "data": "2026-08-02",
+    "categoria_oficial": "segurança",
+    "texto": "Não tem policiamento nenhum na Praça da Matriz à noite. Os moradores estão com medo de sair de casa depois das 20h."
+  },
+  {
+    "id": "M005",
+    "data": "2026-08-03",
+    "categoria_oficial": "educação",
+    "texto": "A Escola Municipal Castro Alves está sem professor de matemática desde o início do semestre. Os alunos ficam com aula vaga."
+  },
+  {
+    "id": "M006",
+    "data": "2026-08-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Venho registrar, pela terceira vez, o problema de alagamento na Rua do Comércio, no bairro Vila Nova. Sempre que chove mais forte, a água sobe mais de meio metro e invade as casas e os comércios da rua. Os bueiros estão entupidos de terra e lixo há meses e nunca vieram fazer a limpeza. Na última chuva, a água entrou na minha casa e perdi a geladeira e o sofá. O vizinho, que é idoso, precisou ser retirado pelos bombeiros. Além disso, a enxurrada abriu uma cratera no asfalto perto do número 120, e à noite não dá para ver porque o poste da esquina também está queimado. Pedimos a limpeza urgente das galerias pluviais, o conserto do asfalto e uma solução definitiva de drenagem para a rua."
+  },
+  {
+    "id": "M007",
+    "data": "2026-08-04",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Estão cortando árvores no Parque das Águas sem nenhuma placa de autorização. Isso é permitido?"
+  },
+  {
+    "id": "M008",
+    "data": "2026-08-04",
+    "categoria_oficial": "saúde",
+    "texto": "Posto de saúde sem médico no Jardim América há duas semanas. Chegamos cedo e voltamos para casa sem atendimento."
+  },
+  {
+    "id": "M009",
+    "data": "2026-08-05",
+    "categoria_oficial": "segurança",
+    "texto": "Roubaram três motos na Rua das Palmeiras nesta semana. Pedimos rondas da Guarda Municipal no local."
+  },
+  {
+    "id": "M010",
+    "data": "2026-08-05",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O bar da esquina da Rua Goiás com a Rua Pará toca som alto até as 3 da manhã, todos os fins de semana. Ninguém consegue dormir."
+  },
+  {
+    "id": "M011",
+    "data": "2026-08-06",
+    "categoria_oficial": "educação",
+    "texto": "O transporte escolar da zona rural não passou a semana toda e as crianças da comunidade São José perderam aula."
+  },
+  {
+    "id": "M012",
+    "data": "2026-08-06",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O poste da Rua das Flores, em frente ao número 45, está apagado há um mês. A rua fica totalmente escura à noite."
+  },
+  {
+    "id": "M013",
+    "data": "2026-08-07",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Tem gente jogando entulho e lixo no terreno baldio da Rua Amazonas. Já apareceram ratos e escorpiões."
+  },
+  {
+    "id": "M014",
+    "data": "2026-08-07",
+    "categoria_oficial": "segurança",
+    "texto": "Os assaltos no ponto de ônibus do Terminal Central estão frequentes. Levaram o celular da minha filha ontem às 19h."
+  },
+  {
+    "id": "M015",
+    "data": "2026-08-08",
+    "categoria_oficial": "saúde",
+    "texto": "Quero registrar uma reclamação sobre o atendimento na UPA Zona Norte. No sábado levei minha filha de 4 anos com febre alta e fiquei mais de seis horas esperando. A recepcionista informou que não havia pediatra de plantão e que só um clínico estava atendendo todos os pacientes. A sala de espera estava lotada, sem cadeiras suficientes, com gente sentada no chão e o bebedouro quebrado. Quando finalmente fomos atendidas, o médico receitou um antibiótico que estava em falta na farmácia da própria unidade, e tive que comprar em farmácia particular. Entendo que a demanda é grande, mas é preciso colocar mais médicos nos fins de semana, garantir pediatra de plantão e manter os remédios básicos no estoque."
+  },
+  {
+    "id": "M016",
+    "data": "2026-08-08",
+    "categoria_oficial": "educação",
+    "texto": "A quadra da Escola Estadual Rui Barbosa está com o telhado caindo. As aulas de educação física foram suspensas."
+  },
+  {
+    "id": "M017",
+    "data": "2026-08-09",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Asfalto todo esburacado da avenida principal (Av. Brasil), principalmente perto da Rua XV. Já estourei um pneu ali semana passada."
+  },
+  {
+    "id": "M018",
+    "data": "2026-08-09",
+    "categoria_oficial": "saúde",
+    "texto": "Demora na consulta com especialista: marquei cardiologista em março e só consegui vaga para novembro."
+  },
+  {
+    "id": "M019",
+    "data": "2026-08-10",
+    "categoria_oficial": "educação",
+    "texto": "Está faltando merenda na Escola Municipal Monteiro Lobato. As crianças estão recebendo só bolacha e suco no intervalo."
+  },
+  {
+    "id": "M020",
+    "data": "2026-08-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Fumaça preta saindo da chaminé da fábrica do Distrito Industrial todas as manhãs. O cheiro chega até o bairro Esperança."
+  },
+  {
+    "id": "M021",
+    "data": "2026-08-11",
+    "categoria_oficial": "segurança",
+    "texto": "Moro há quinze anos no bairro Esperança e nunca vi a situação tão perigosa. A rua de trás da Escola Estadual Rui Barbosa virou ponto de venda de drogas, e os alunos passam por ali todos os dias na saída das aulas. À noite, a iluminação é fraca e vários postes estão apagados, o que facilita os assaltos. Na semana passada, uma professora teve a bolsa arrancada às 18h30, e um adolescente foi abordado por dois homens armados. Já fizemos boletim de ocorrência, mas a viatura só aparece de vez em quando. Pedimos rondas diárias da Polícia Militar e da Guarda Municipal nos horários de entrada e saída da escola, além da troca das lâmpadas e da instalação de câmeras de monitoramento na região."
+  },
+  {
+    "id": "M022",
+    "data": "2026-08-11",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF do Jardim América: a unidade está sem clínico geral faz quinze dias e mandam todo mundo para a UPA."
+  },
+  {
+    "id": "M023",
+    "data": "2026-08-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo do cruzamento da Av. Independência com a Rua Bahia está piscando amarelo há três dias. Muito perigoso."
+  },
+  {
+    "id": "M024",
+    "data": "2026-08-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Buraco grande na Rua Sete de Setembro, no Centro, na frente da padaria. Encheu de água com a chuva."
+  },
+  {
+    "id": "M025",
+    "data": "2026-08-13",
+    "categoria_oficial": "segurança",
+    "texto": "Carros em alta velocidade na Rua Minas Gerais, em frente à creche. Precisamos de lombada ou radar."
+  },
+  {
+    "id": "M026",
+    "data": "2026-08-13",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego do bairro Vila Nova está com esgoto a céu aberto e um cheiro insuportável."
+  },
+  {
+    "id": "M027",
+    "data": "2026-08-14",
+    "categoria_oficial": "educação",
+    "texto": "Sou mãe solo e trabalho o dia inteiro. Inscrevi meu filho de dois anos na creche municipal do bairro Jardim América em fevereiro e até hoje ele continua na lista de espera, agora na posição 87. Quando fui à Secretaria de Educação, disseram que não há previsão de novas vagas, porque a creche já atende acima da capacidade. Visitei a unidade e vi salas lotadas, com uma única cuidadora para quinze crianças e brinquedos quebrados no pátio. Enquanto isso, dependo de vizinhas para cuidar do meu filho e corro o risco de perder o emprego. Solicito a ampliação das vagas, a contratação de mais auxiliares e a abertura da nova creche que foi prometida para o bairro há dois anos."
+  },
+  {
+    "id": "M028",
+    "data": "2026-08-14",
+    "categoria_oficial": "saúde",
+    "texto": "A ambulância do SAMU demorou mais de uma hora para chegar quando meu pai passou mal na Rua Paraná."
+  },
+  {
+    "id": "M029",
+    "data": "2026-08-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Barulho absurdo toda madrugada de sexta e sábado no bar da Rua Goiás, esquina com a Pará. Música alta até o amanhecer, já liguei várias vezes."
+  },
+  {
+    "id": "M030",
+    "data": "2026-08-15",
+    "categoria_oficial": "educação",
+    "texto": "A biblioteca da Escola Municipal Castro Alves está fechada porque não tem funcionário. Os alunos não conseguem pegar livros."
+  },
+  {
+    "id": "M031",
+    "data": "2026-08-16",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Lâmpada queimada na praça do bairro São Cristóvão, perto do parquinho. As crianças não conseguem brincar depois que escurece."
+  },
+  {
+    "id": "M032",
+    "data": "2026-08-16",
+    "categoria_oficial": "segurança",
+    "texto": "As câmeras de monitoramento da Praça da Matriz estão desligadas há meses, segundo a própria Guarda Municipal."
+  },
+  {
+    "id": "M033",
+    "data": "2026-08-17",
+    "categoria_oficial": "educação",
+    "texto": "Os alunos da Monteiro Lobato estão sem merenda escolar. Meu filho volta com fome todos os dias, só dão biscoito."
+  },
+  {
+    "id": "M034",
+    "data": "2026-08-17",
+    "categoria_oficial": "saúde",
+    "texto": "Não tem vacina da gripe disponível no posto do bairro Santa Luzia, mandaram voltar semana que vem."
+  },
+  {
+    "id": "M035",
+    "data": "2026-08-18",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Rua das Flores completamente às escuras: a iluminação pública em frente ao número 45 não funciona há semanas."
+  },
+  {
+    "id": "M036",
+    "data": "2026-08-18",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há um lixão clandestino se formando na estrada vicinal que liga o bairro São Cristóvão à zona rural, perto da ponte do Rio Claro. Caminhões despejam entulho de obra, pneus velhos, móveis e até restos de animais durante a madrugada. Toda semana alguém coloca fogo no material e a fumaça tóxica invade as casas, prejudicando principalmente crianças e idosos com problemas respiratórios. Com a chuva, o chorume escorre direto para o rio, que abastece as propriedades rurais da região. Já vimos peixes mortos na margem. Pedimos fiscalização da Secretaria de Meio Ambiente, a remoção do lixo, a instalação de placas e câmeras e a punição de quem estiver fazendo o descarte irregular."
+  },
+  {
+    "id": "M037",
+    "data": "2026-08-19",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A coleta de lixo não passou na Rua Amapá nesta semana e os sacos estão se acumulando na calçada."
+  },
+  {
+    "id": "M038",
+    "data": "2026-08-19",
+    "categoria_oficial": "segurança",
+    "texto": "Terminal Central perigoso: no ponto de ônibus os ladrões agem todo fim de tarde. Já presenciei dois roubos de celular ali."
+  },
+  {
+    "id": "M039",
+    "data": "2026-08-20",
+    "categoria_oficial": "educação",
+    "texto": "Não há rampa de acessibilidade na EMEF Paulo Freire. Meu filho é cadeirante e precisa ser carregado no colo até a sala."
+  },
+  {
+    "id": "M040",
+    "data": "2026-08-20",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Pedimos a poda das árvores da Rua Acre, os galhos estão encostando nos fios de energia."
+  }
+]

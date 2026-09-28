@@ -1,0 +1,29 @@
+{
+  "descricao": "Gabarito das duplicatas semânticas do dataset de exemplo (mesmo problema, mesmo local, palavras diferentes).",
+  "pares": [
+    [
+      "M003",
+      "M017"
+    ],
+    [
+      "M008",
+      "M022"
+    ],
+    [
+      "M010",
+      "M029"
+    ],
+    [
+      "M012",
+      "M035"
+    ],
+    [
+      "M014",
+      "M038"
+    ],
+    [
+      "M019",
+      "M033"
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+sentence-transformers>=3.0
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+langchain-text-splitters
+jupyter
