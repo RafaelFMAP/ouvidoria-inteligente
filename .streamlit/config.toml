@@ -1,0 +1,7 @@
+[server]
+# Evita que o observador de arquivos inspecione os módulos opcionais do transformers
+# (gera tracebacks inofensivos sobre torchvision no terminal)
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
